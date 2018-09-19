@@ -1,0 +1,178 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.header {
+    display: flex;
+    padding: 40px;
+    padding-left: 90px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 31px;
+    font-size: 16px;
+}
+
+.header svg {
+    width: 130px;
+    height: auto;
+    margin-top: -10px;
+}
+
+.header-right {
+    margin-left: 500px;
+    margin-bottom: 0px;
+}
+
+#active {
+    color: #FF7008;
+    border-bottom: 2px solid #FF7008;
+    padding-bottom: 10px;
+}
+
+.header-right a {
+    margin-left: 40px;
+    color: black;
+    text-align: center;
+    padding: 2px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.jumbotron {
+    background: url('img/7014.png');
+    position: relative;
+    overflow: hidden;
+    width: auto;
+}
+
+.partners {
+    display: flex;
+    margin-top: 30px;
+    padding: 100px;
+}
+
+.partners p {
+    padding-top: 25px;
+}
+
+.skype {
+    width: 82.18px;
+    height: 35.86px;
+    padding: 30px;
+}
+
+.visa {
+    width: 80px;
+    height: 64px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.cocacola {
+    width: 98.88px;
+    height: 31.21px;
+    margin-top: 35px;
+    padding-left: 40px;
+}
+
+.google {
+    width: 115.58px;
+    height: 39.18px;
+    margin-top: 35px;
+    padding-left: 40px;
+}
+
+.puma {
+    width: 115.58px;
+    height: 39.18px;
+    margin-top: 25px;
+    padding-left: 40px;
+}
+
+.addidas {
+    width: 70.82px;
+    height: 47.15px;
+    margin-top: 25px;
+    padding-left: 40px;
+}
+
+.samsung {
+    width: 102.89px;
+    height: 33.87px;
+    margin-top: 30px;
+    padding-left: 65px;
+}
+
+.features {
+    margin-top: -90px;
+    padding: 100px;
+}
+
+.feature-head {
+    font-style: normal;
+    font-weight: normal;
+    line-height: 41px;
+    font-size: 21px;
+    color: #FF7008;
+}
+
+.feature-head2 {
+    margin-top: -20px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 56px;
+    font-size: 40px;
+    color: #454545;
+}
+
+.main-features {
+    display: flex;
+}
+
+.feat {
+    width: 300px;
+    height: 91px;
+    padding-left: 0px;
+}
+
+.feat a {
+    text-decoration: none;
+    color: #FF7008;
+}
+
+.p {
+    font-style: normal;
+    font-weight: bold;
+    line-height: 35px;
+    font-size: 18px;
+    color: #000000;
+}
+
+.two, .three {
+    padding-left: 80px;
+}
+
+footer {
+    margin-top: 30px;
+    background: #F8F8F8;
+    padding-top: 80px;
+}
+
+.footer-top {
+    display: flex;
+    margin-left: 100px;
+}
+
+.part li {
+    list-style-type: none;
+}
+
+.part p, .newsp{
+    font-style: normal;
+font-weight: bold;
+line-height: 37px;
+font-size: 19px;
+
+color: #000000;
+}
